@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilbk10" alt="anilbk10" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
