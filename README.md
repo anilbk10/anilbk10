@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anilbk10
 - 👀 I’m interested in development 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning about AWS and cloud computing. 
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me abk33916@gmail.com
 
